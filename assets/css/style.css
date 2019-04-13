@@ -1,7 +1,7 @@
     header{
         font-family: Georgia, 'Times New Roman', Times, serif;
-        font-size: 60px;
-        font-weight: 30px;
+        font-size: 45px;
+        font-weight: 20px;
         color: forestgreen;
         text-align: center;
         background: white;
@@ -52,12 +52,16 @@
     #gif{
         margin: 20px;
     }
+
+    #startOverBtn{
+        margin-bottom: 20px;
+    }
     
     @media only screen and (max-width: 768px) {
         .container {
             width: auto;
             height: auto;
-            margin-top: 50px;
+            margin-top: 90px;
         }
         button{
             height: auto;
@@ -77,7 +81,7 @@
         .container {
             width: auto;
             height: auto;
-            margin-top: 50px;
+            margin-top: 90px;
         }
         button{
             height: auto;
