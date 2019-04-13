@@ -47,17 +47,48 @@
     .thisChoice:hover{
         background-color: lightgreen;
         color: white;
-        padding: 10px;
     }
     
     #gif{
         margin: 20px;
     }
     
-    @media screen and (max-width:640px){
-        .container{
-            width: 500px;
-            margin-top: 200px;
-            size: 200%;
-        }	
-    }
+    @media only screen and (max-width: 768px) {
+        .container {
+            width: auto;
+            height: auto;
+            margin-top: 50px;
+        }
+        button{
+            height: auto;
+            width: auto;
+        }
+        header{
+            font-size: auto;
+        }
+        .thisChoice:hover{
+            background-color: lightgreen;
+            color: white;
+            padding: none;
+        }
+      }
+      
+      @media only screen and (max-width: 600px) {
+        .container {
+            width: auto;
+            height: auto;
+            margin-top: 50px;
+        }
+        button{
+            height: auto;
+            width: auto;
+        }
+        header{
+            font-size: auto;
+        }
+        .thisChoice:hover{
+            background-color: none;
+            color: none;
+            padding: none;
+        }
+      }

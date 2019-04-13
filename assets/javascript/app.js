@@ -4,39 +4,39 @@ var triviaQuestions = [{
     answer: 1
 }, {
     question: "Melaleuca (Tea Tree) oil may ___?",
-    answerList: ["Cleanse and rejuvenate the skin", "Promote healthy digestion", "Help ease menstrual discomfort", "Promote restful sleep"],
+    answerList: ["A. Cleanse and rejuvenate the skin", "B. Promote healthy digestion", "C. Help ease menstrual discomfort", "D. Promote restful sleep"],
     answer: 0
 }, {
     question: "What is NOT one of the ways you can use doTERRA essential oils?",
-    answerList: ["Internally", "Topically", "Aromatically", "This is a trick question."],
+    answerList: ["A. Internally", "B. Topically", "C. Aromatically", "D. This is a trick question."],
     answer: 3
 }, {
     question: "Aromatic molecules that interact with the top of the nasal cavity emit signals that are modified by various biological processes before traveling to the _________, the emotional switchboard of the brain.",
-    answerList: ["Reticular formation", "Cerebrum", "Limbic system", "Brain stem"],
+    answerList: ["A. Reticular formation", "B. Cerebrum", "C. Limbic system", "D. Brain stem"],
     answer: 3
 }, {
     question: "Which oil is best known for its powerful protective qualities against environmental threats? Hint: It is known for being used in DIY cleaning products.",
-    answerList: ["Lemongrass", "Breathe", "Slim & Sassy", "OnGuard"],
+    answerList: ["A. Lemongrass", "B. Breathe", "C. Slim & Sassy", "D. OnGuard"],
     answer: 3
 }, {
     question: "How many cups of peppermint tea equals one drop of peppermint essential oil?",
-    answerList: ["28", "50", "3", "80"],
+    answerList: ["A. 28", "B. 50", "C. 3", "D. 80"],
     answer: 0
 }, {
     question: "Where is the doTERRA headquarters located?",
-    answerList: ["Los Angeles, CA", "Pleasant Grove, UT", "New York City, NY", "Miami, FL"],
+    answerList: ["A. Los Angeles, CA", "B. Pleasant Grove, UT", "C. New York City, NY", "D. Miami, FL"],
     answer: 1
 }, {
     question: "What is one reason you should use doTERRA oils instead of the other essential oil brands?",
-    answerList: ["They are CPTG (Certified Pure Theraputic Grade).", "They add artificial scents, so they smell better.", "They clog your liver with toxins.", "They have problematic sourcing strategies."],
+    answerList: ["A. They are CPTG (Certified Pure Theraputic Grade).", "B. They add artificial scents, so they smell better.", "C. They clog your liver with toxins.", "D. They have problematic sourcing strategies."],
     answer: 0
 }, {
     question: "Which oil is best known for how it helps with your respiratory system?",
-    answerList: ["Lavender", "Breathe", "Oregano", "Wild Orange"],
+    answerList: ["A. Lavender", "B. Breathe", "C. Oregano", "D. Wild Orange"],
     answer: 1
 }, {
     question: "Which of these oils can help relieve headaches?",
-    answerList: ["Lemon", "Melaleuca", "Frankincense", "Cypress"],
+    answerList: ["A. Lemon", "B. Melaleuca", "C. Frankincense", "D. Cypress"],
     answer: 2
 }];
 
